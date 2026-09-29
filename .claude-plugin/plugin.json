@@ -1,0 +1,10 @@
+{
+  "name": "spicygen",
+  "version": "1.1.0",
+  "description": "AI adult image, character and movie generator (18+). Remote MCP server (16 tools, OAuth or API key) plus skills for characters, images, videos, movies and credits.",
+  "author": { "name": "Wayfinity Ltd", "email": "contact@spicygen.ai", "url": "https://www.spicygen.ai" },
+  "homepage": "https://www.spicygen.ai/docs/agents",
+  "repository": "https://github.com/Wayfinity/spicygen-skills",
+  "license": "MIT",
+  "keywords": ["mcp", "ai image generator", "ai video generator", "adult", "nsfw", "characters", "18+"]
+}

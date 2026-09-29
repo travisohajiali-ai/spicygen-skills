@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "spicygen": {
+      "type": "streamable-http",
+      "url": "https://www.spicygen.ai/api/mcp",
+      "headers": { "Authorization": "Bearer ${SPICYGEN_API_KEY}" }
+    }
+  }
+}

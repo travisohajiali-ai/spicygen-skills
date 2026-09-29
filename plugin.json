@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "spicygen",
+  "version": "1.1.0",
+  "description": "AI adult image, character and movie generator (18+). Skills for the SpicyGen MCP server: characters, images, videos, movies, credits.",
+  "author": { "name": "Wayfinity Ltd", "url": "https://www.spicygen.ai" },
+  "homepage": "https://www.spicygen.ai/docs/agents",
+  "repository": "https://github.com/Wayfinity/spicygen-skills",
+  "license": "MIT",
+  "keywords": ["mcp", "ai image generator", "ai video generator", "adult", "nsfw", "characters", "18+"]
+}

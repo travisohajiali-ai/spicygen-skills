@@ -1,0 +1,30 @@
+{
+  "version": "1.1.0",
+  "base": "https://www.spicygen.ai",
+  "skills": [
+    {
+      "name": "create-a-character-and-generate-a-set",
+      "title": "Create a character and generate a set of images",
+      "description": "Create a reusable AI character from a text description on SpicyGen (an AI adult image and video generator, 18+), then generate a set of images of that character in different scenes, through the SpicyGen MCP server or REST API. Use when a user asks for an AI character, a consistent AI model or persona, AI adult images of the same person, or an NSFW AI image generator.",
+      "url": "https://www.spicygen.ai/skills/create-a-character-and-generate-a-set/SKILL.md"
+    },
+    {
+      "name": "turn-an-image-into-a-video",
+      "title": "Turn an image into a video",
+      "description": "Animate a SpicyGen library image or a saved character into a short AI video with a motion prompt (SpicyMotion v3.0, 3 to 30 seconds, optional audio), through the SpicyGen MCP server or REST API. Use when a user asks to turn an image into a video, animate a picture, make an NSFW AI video, or generate an AI adult video clip.",
+      "url": "https://www.spicygen.ai/skills/turn-an-image-into-a-video/SKILL.md"
+    },
+    {
+      "name": "build-a-movie-from-scenes",
+      "title": "Build a movie from scenes",
+      "description": "Build a multi-scene AI movie on SpicyGen: start from a library image or a character, generate scenes one after another (each continues from the last frame of the previous one), then stitch them into one video, through the SpicyGen MCP server or REST API. Use when a user asks for a longer AI video, a storyboard, a multi-scene clip, or an adult AI movie.",
+      "url": "https://www.spicygen.ai/skills/build-a-movie-from-scenes/SKILL.md"
+    },
+    {
+      "name": "manage-credits-and-spend",
+      "title": "Manage credits and spend",
+      "description": "Check a SpicyGen credit balance, explain what images, videos and characters cost, pick a credit pack and hand the user a hosted checkout link, read referral stats, and manage the generated library, through the SpicyGen MCP server or REST API. Use when a user asks how much SpicyGen costs, to top up credits, buy a pack, check their balance, or tidy their library.",
+      "url": "https://www.spicygen.ai/skills/manage-credits-and-spend/SKILL.md"
+    }
+  ]
+}
